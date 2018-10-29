@@ -21,6 +21,8 @@ Most common operations available on queue are,
 4. Size / Count - Returns the number of elements currently present in the queue.  
 5. IsEmpty - Check whether the queue is empty or not.  
 
+Adding an element to a queue is called as enqueue and removing it is called as dequeue. Queue is a data structure where the order of elements is preserverd.
+
 Implementation of a queue is possible using either arrays or linked lists. The following is a simple array implementation of the queue data structure with its most common operations.
 
 ```JavaScript  
